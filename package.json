@@ -1,6 +1,6 @@
 {
   "name": "@evan-yang/eslint-config-monorepo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "packageManager": "pnpm@7.1.0",
   "license": "MIT",
@@ -13,9 +13,9 @@
     "release": "bumpp package.json packages/*/package.json --commit --push --tag"
   },
   "devDependencies": {
-    "@types/react": "^18.0.9",
     "@evan-yang/eslint-config": "workspace:*",
     "@evan-yang/eslint-plugin": "workspace:*",
+    "@types/react": "^18.0.9",
     "bumpp": "^7.1.1",
     "eslint": "^8.14.0",
     "react": "^18.1.0",
