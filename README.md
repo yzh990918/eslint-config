@@ -76,4 +76,4 @@ pnpm lint:fix
 
 ## License
 
-MIT License © 2022 [vbs-plus](https://github.com/vbs-plus)
+MIT License © 2022 [mohen](https://github.com/yzh990918)
