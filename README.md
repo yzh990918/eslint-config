@@ -1,6 +1,6 @@
 # @evan-yang/eslint-config
 
-VBS's ESLint config preset.
+My ESLint config preset.
 
 ## Usage
 
