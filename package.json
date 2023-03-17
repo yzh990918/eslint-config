@@ -1,10 +1,15 @@
 {
   "name": "@evan-yang/eslint-config-monorepo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": true,
   "packageManager": "pnpm@7.1.0",
   "license": "MIT",
   "author": "yzh990918 <https://github.com/yzh990918>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yzh990918/eslint-config"
+  },
+  "homepage": "https://github.com/yzh990918/eslint-config",
   "scripts": {
     "build": "pnpm -r build",
     "dev": "zr stub",
