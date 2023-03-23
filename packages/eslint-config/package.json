@@ -15,7 +15,8 @@
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
   "files": [
-    "dist"
+    "dist",
+    "README.md"
   ],
   "sideEffects": false,
   "scripts": {
