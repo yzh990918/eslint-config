@@ -9,7 +9,7 @@
   "author": "yzh990918 <https://github.com/yzh990918>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vbs-plus/eslint-config",
+    "url": "https://github.com/yzh990918/eslint-config",
     "directory": "packages/eslint-config"
   },
   "main": "dist/index.cjs",
